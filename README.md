@@ -3,7 +3,6 @@ https://crispr-design-dashboard-samboesen.streamlit.app/
 
 A comprehensive web application for CRISPR guide RNA design, analysis, and visualization. This tool combines modern bioinformatics algorithms with an intuitive interface to streamline the CRISPR design workflow.
 
-
 ## 🚀 Features
 
 ### 1. Guide RNA Designer
