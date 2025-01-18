@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+biopython>=1.80
+plotly
+scikit-learn
+seaborn
+openpyxl>=3.1.5  # For Excel export 
